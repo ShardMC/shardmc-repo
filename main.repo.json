@@ -4,5 +4,11 @@
     "name": "v0.1a",
     "link": "https://raw.githubusercontent.com/shardmc/shardmc-repo/main/bin/shardmc-0-1a.jar",
     "hash": "4B9E349A881C60B0E0F032629711B10D7C6397B0E032463B9CCA96D58A489B04"
+  },
+  "v0.2a": {
+    "date": "2023-01-04",
+    "name": "v0.2a",
+    "link": "https://raw.githubusercontent.com/shardmc/shardmc-repo/main/bin/shardmc-0-1a.jar",
+    "hash": "4B9E349A881C60B0E0F032629711B10D7C6397B0E032463B9CCA96D58A489B04"
   }
 }
