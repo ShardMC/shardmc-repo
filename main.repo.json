@@ -1,6 +1,8 @@
 {
   "v0.1a": {
+    "date": "date goes here",
+    "name": "v0.1a",
     "link": "https://example.com/",
-    "date": 123
+    "hash": "hash goes here"
   }
 }
