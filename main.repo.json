@@ -2,7 +2,7 @@
   "v0.1a": {
     "date": "2023-01-04",
     "name": "v0.1a",
-    "link": "https://example.com/",
+    "link": "https://raw.githubusercontent.com/shardmc/shardmc-repo/main/bin/shardmc-0-1a.jar",
     "hash": "hash goes here"
   }
 }
