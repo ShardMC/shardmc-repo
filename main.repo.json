@@ -5,7 +5,7 @@
     "link": "https://raw.githubusercontent.com/shardmc/shardmc-repo/main/bin/shardmc-0-1a.jar",
     "hash": "5BBB8E16B721FE69EDE43F1E315FC0E0602290E93968AC37CAAA80B6C49D25E6",
     
-    "src": "NONE",
+    "src": "https://github.com/shardmc",
     "type": "alpha"
   }
 }
