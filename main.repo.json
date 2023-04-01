@@ -7,5 +7,14 @@
     
     "src": "https://github.com/shardmc",
     "type": "alpha"
+  },
+  "v0.1b": {
+    "date": "2023-04-1",
+    "name": "v0.1b",
+    "link": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+    "hash": "GETTROLLEDGETTROLLEDGETTROLLEDGETTROLLEDGETTROLLEDGETTROLLEDGETTROLLED",
+    
+    "src": "https://github.com/shardmc",
+    "type": "beta"
   }
 }
